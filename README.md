@@ -1,4 +1,4 @@
-# RahulChoudhary_Factwise
+# RahulChoudhary_Factwise-Python
 Team project planner tool
 
 # Team Project Planner
