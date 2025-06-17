@@ -1,4 +1,4 @@
-# Factwise Internship
+# Factwise Internship Task
 Team project planner tool
 
 # Team Project Planner
