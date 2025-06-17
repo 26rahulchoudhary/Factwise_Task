@@ -1,4 +1,4 @@
-# RahulChoudhary_Factwise-Python
+# Factwise Internship
 Team project planner tool
 
 # Team Project Planner
